@@ -15,7 +15,7 @@ This repository serves as a link to the Motion Simulation Chair project, origina
 ## Key Features
 
 - **User-Controlled Modes**: Allows for individual axis control and simulation modes.
-- **Detailed Documentation**: The [PDF](Motion_Simulation_Chair_Final_Documentation.pdf) in this repository includes extensive documentation, wiring diagrams, and usage instructions for our Motion Simulation Chair.
+- **Detailed Documentation**: The [PDF](MotionSimulationChair/blob/main/Motion%20Simulation%20Chair%20Final%20Documentation.pdf) in this repository includes extensive documentation, wiring diagrams, and usage instructions for our Motion Simulation Chair.
 
 ## Acknowledgments
 
